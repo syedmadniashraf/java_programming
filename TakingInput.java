@@ -11,7 +11,9 @@ public class TakingInput {
         // int sum = a + b;
         // System.out.println("The sum of these numbers is: ");
         // System.out.println(sum);
-        boolean b1 = sc.hasNextInt();
-        System.out.println(b1);
+        // boolean b1 = sc.hasNextInt();
+        // String str = sc.next();  // Gives only first word
+        String str = sc.nextLine(); // Gives a whole sentence
+        System.out.println(str);
     }
 }
