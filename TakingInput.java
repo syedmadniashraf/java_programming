@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class TakingInput {
     public static void main(String[] args) {
@@ -14,6 +14,8 @@ public class TakingInput {
         // boolean b1 = sc.hasNextInt();
         // String str = sc.next();  // Gives only first word
         String str = sc.nextLine(); // Gives a whole sentence
+        // char ch = sc.nextLine().charAt(0);
+        // System.out.println(ch);
         System.out.println(str);
     }
 }
