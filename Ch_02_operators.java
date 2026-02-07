@@ -9,7 +9,7 @@ public class Ch_02_operators {
         System.out.println(64 > 6); // comparison operator
         // Logical operators
         System.out.println(64>6 && 64>98);// AND Operator
-        System.out.println(64>6 || 64>98);// OR Operator
+        System.out.println(64>6 || 64>99);// OR Operator
         System.out.println(2 & 3); // Bitwise operator
     }
 }
