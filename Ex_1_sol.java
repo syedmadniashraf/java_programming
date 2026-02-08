@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ex_1_sol {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter your physics marks:");
+        System.out.println("Enter your Physics marks:");
         int Physics = scan.nextInt();
         System.out.println("Enter your Chemistry marks:");
         int Chemistry = scan.nextInt();
