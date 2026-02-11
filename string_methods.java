@@ -32,7 +32,7 @@ public class string_methods {
         // System.out.println(name.equals("Harry"));
         // System.out.println(name.equalsIgnoreCase("harry"));
 
-        System.out.println("I am escape sequence \\ Double quote");
+        System.out.println("I am escape sequence \\ quote");
     }
 
 }
