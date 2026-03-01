@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class else_if {
     public static void main(String[] args) {
-        char var = 'c';
+        char var = 'd';
         switch (var) {
             case 'r':
                 System.out.println("You are becoming an adult");
