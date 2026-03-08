@@ -4,5 +4,5 @@ public class Main {
     }
 }
 
-// AddTwoNUmber --> Pascal naming convention
+// AddTwoNmber --> Pascal naming convention
 // addTwoNumber --> Camel case naming convention
