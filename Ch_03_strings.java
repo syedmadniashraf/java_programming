@@ -5,7 +5,7 @@ public class Ch_03_strings {
         // String name = "Harry";
         // System.out.println(name);
 
-        int a = 7;
+        int a = 6;
         float b = 5.645f;
         // System.out.printf("The value of a is %d and value of b is %f",a, b);
         System.out.format("The value of a is %d and value of b is %f",a, b);
