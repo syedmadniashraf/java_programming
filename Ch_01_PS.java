@@ -4,7 +4,7 @@ public class Ch_01_PS {
     public static void main(String[] args) {
         // question 1
 
-        int a = 2;
+        int a = 3;
         int b = 7;
         int c = 5;
         int sum = a + b + c;
